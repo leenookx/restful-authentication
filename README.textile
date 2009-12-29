@@ -142,7 +142,7 @@ To use the generator:
   activation code.  (@--stateful@ implies @--include-activation@). Based on the
   idea at [[http://www.vaporbase.com/postings/stateful_authentication]]. Passing
   @--skip-migration@ will skip the user migration, and @--skip-routes@ will skip
-  resource generation -- both useful if you've already run this generator.
+  resource generation - both useful if you've already run this generator.
   (Needs the "acts_as_state_machine plugin":http://elitists.textdriven.com/svn/plugins/acts_as_state_machine/,
   but new installs should probably run with @--aasm@ instead.)
 
