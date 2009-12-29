@@ -115,6 +115,8 @@ acts as authenticated.  Currently it requires Rails 1.2.6 or above.
 * either use <code>git clone git://github.com/technoweenie/restful-authentication.git restful_authentication</code>
 * or rename the plugin's directory to be <code>restful_authentication</code> after fetching it.
 
+script/plugin install http://github.com/leenookx/restful-authentication restful_authentication
+
 To use the generator:
 
   ./script/generate authenticated user sessions \

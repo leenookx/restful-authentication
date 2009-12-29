@@ -1,12 +1,12 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{restful-authentication}
-  s.version = "1.1.1"
+  s.name = %q{leenookx-restful-authentication}
+  s.version = "1.1.2"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["RailsJedi", "Rick Olson"]
-  s.date = %q{2008-07-04}
+  s.authors = ["RailsJedi", "Rick Olson", "Leenookx"]
+  s.date = %q{2009-12-29}
   s.description = %q{This widely-used plugin provides a foundation for securely managing user.}
   s.email = %q{railsjedi@gmail.com}
   s.extra_rdoc_files = ["README.textile"]
